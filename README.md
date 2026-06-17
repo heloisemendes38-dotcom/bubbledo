@@ -14,6 +14,12 @@ O Bubbledo foi desenvolvido para ajudar seus usuários a organizarem melhor sua 
 - Acompanhamento da rotina
 - Motivação diária
 
+--- 
+
+## Objetivo do Projeto
+
+O Bubble foi desenvolvido para auxiliar usuários na organização de suas tarefas e compromissos, utilizando OCR para facilitar a digitalização de informações do dia a dia.
+
 ---
 
 ## Membros
