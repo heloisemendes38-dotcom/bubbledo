@@ -7,8 +7,17 @@ O Bubbledo foi desenvolvido para ajudar seus usuários a organizarem melhor sua 
 
 
 ## Funcionalidades
+
 - Organização de tarefas
 - Criação de hábitos
 - Interface intuitiva e moderna
 - Acompanhamento da rotina
 - Motivação diária
+
+---
+
+## Membros
+
+- Heloise Mendes De Avelar
+
+---
